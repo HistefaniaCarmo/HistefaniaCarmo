@@ -13,7 +13,7 @@
   <img align="left" alt="Gmail" width="22px" src="https://github.com/user-attachments/assets/a58220cc-ed55-4593-8f3c-64ca8152f87d"/>
 </a>
 
-<br/><br/>
+<br/><br/><br/><br/>
 
 Sou uma desenvolvedora front-end em formação, apaixonada por estética digital, interfaces limpas e experiências visuais criativas.  
 Atualmente estudo **Desenvolvimento de Sistemas (3º ano)** e venho desenvolvendo projetos com foco em **UI/UX**, responsive design e boas práticas de front-end.
