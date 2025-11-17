@@ -24,7 +24,7 @@ Atualmente estudo **Desenvolvimento de Sistemas (3º ano)** e venho desenvolvend
 - 🎨 Criação visual: **desenhos realistas e personagens 3D**  
 - ✨ Gosto de misturar tecnologia + criatividade  
 - 🚀 Busco oportunidades em projetos de design, front-end e experiência do usuário  
-<br/><br/>
+<br/><br/><br/>
 
 ## <samp>💬 Sobre Mim</samp>
 
