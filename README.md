@@ -15,33 +15,33 @@
 
 <br/><br/>
 
-Sou uma desenvolvedora front-end em formação, apaixonada por estética digital, interfaces limpas e experiências visuais criativas.  
-Atualmente estudo **Desenvolvimento de Sistemas (3º ano)** e venho desenvolvendo projetos com foco em **UI/UX**, responsive design e boas práticas de front-end.
+Sou uma desenvolvedora front-end em formação, apaixonada por estética digital e criação de interfaces limpas, funcionais e bonitas.  
+Atualmente estudo **Desenvolvimento de Sistemas (3º ano)** e construo projetos focados em **UI/UX**, responsividade e boas práticas de código.
 
 <img align="right" alt="gif" width="230px" src="https://github.com/user-attachments/assets/d71b15af-e57b-4134-81ea-8caefee98437"/>
 
 <br/>
 
-- 💻 Experiência prática com **HTML, CSS e JavaScript**, criando interfaces modernas, responsivas e focadas no usuário.
-- 🎨 Produção visual: **desenhos realistas, personagens 3D**, composições digitais e estudos de estética.
-- ✨ Paixão por unir **design + tecnologia**, explorando cores, tipografias e microinterações.
-- 🧠 Interesse forte em psicologia aplicada ao design — como pessoas percebem, navegam e interagem com interfaces.
-- 🧪 Curto testar layouts, ajustar detalhes e otimizar a experiência em diferentes dispositivos.
-- 🚀 Busco aprender sobre **design digital** e projetos criativos.
+- 💻 Experiência com **HTML, CSS e JavaScript**
+- 🎨 Produção visual: **desenhos realistas, personagens 3D e composições digitais**
+- ✨ Interesse em unir **design + tecnologia** em interfaces intuitivas
+- 🧠 Curiosidade por psicologia aplicada ao design e comportamento do usuário
+- 🧪 Gostando cada vez mais de testar, organizar e refinar interfaces
+- 🚀 Em evolução constante para atuar em **front-end, design digital e projetos criativos**
 
 <br/>
 
 ## <samp>💬 Sobre Mim</samp>
 
-- 🎓 Formação técnica em **Desenvolvimento de Sistemas**  
-- 🎮 Jogos, tecnologia e estética = meu lar
-- 🎨 Me divirto montando layouts e deixando tudo bonitinho  
-- 🧠 Interesse forte em UI/UX, usabilidade e composição visual  
-- 💬 Sempre aberta para conversar, trocar ideias e colaborar
+- 🎓 Estudante de **Desenvolvimento de Sistemas**
+- 🎮 Apaixonada por games, tech e estética digital
+- 🎨 Amo montar layouts, compor elementos visuais e deixar tudo harmonioso
+- 🧠 Foco em UI/UX, usabilidade e padrões de design
+- 💬 Gosto de trocar ideias, aprender com outras pessoas e colaborar em projetos
 
-  <br/>
+<br/>
 
-## <samp>🌹 My Skill Set  </samp>
+## <samp>🌹 My Skill Set</samp>
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  
@@ -60,4 +60,3 @@ Atualmente estudo **Desenvolvimento de Sistemas (3º ano)** e venho desenvolvend
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 </div>
-
