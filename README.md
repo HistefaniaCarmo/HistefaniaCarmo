@@ -3,7 +3,7 @@
 <a href="https://github.com/HistefaniaCarmo">
   <img align="left" alt="Github" width="22px" src="https://github.com/user-attachments/assets/8e22c2f4-24fe-4fe2-9763-2dc72b32ff44"/>
 </a>
-<a href="https://www.linkedin.com/in/Histef%C3%A2nia%20Carmo">
+<a href="https://www.linkedin.com/in/histef%C3%A2nia-carmo/">
   <img align="left" alt="LinkedIn" width="22px" src="https://github.com/user-attachments/assets/6083756a-9fe2-4997-9c8c-92586e65d23f"/>
 </a>
 <a href="https://instagram.com/efaniibab">
