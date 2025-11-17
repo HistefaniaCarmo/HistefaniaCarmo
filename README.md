@@ -15,30 +15,29 @@
 
 <br/><br/>
 
-Sou uma desenvolvedora front-end em formação, apaixonada por estética digital e criação de interfaces limpas, funcionais e bonitas.  
-Atualmente estudo **Desenvolvimento de Sistemas (3º ano)** e construo projetos focados em **UI/UX**, responsividade e boas práticas de código.
+Sou uma desenvolvedora front-end em formação, com uma quedinha enorme por estética digital, interfaces limpas e visuais criativos.  
+Atualmente estudo **Desenvolvimento de Sistemas (3º ano)** e venho construindo projetos focados em layout, responsividade e boas práticas de front-end.
 
 <img align="right" alt="gif" width="230px" src="https://github.com/user-attachments/assets/d71b15af-e57b-4134-81ea-8caefee98437"/>
 
 <br/>
 
-- 💻 Experiência com **HTML, CSS e JavaScript**
-- 🎨 Produção visual: **desenhos realistas, personagens 3D e composições digitais**
-- ✨ Interesse em unir **design + tecnologia** em interfaces intuitivas
-- 🧠 Curiosidade por psicologia aplicada ao design e comportamento do usuário
-- 🧪 Gostando cada vez mais de testar, organizar e refinar interfaces
-- 🚀 Em evolução constante para atuar em **front-end, design digital e projetos criativos**
+- 💻 Experiência prática com **HTML, CSS e JavaScript** — criando interfaces modernas e responsivas.
+- 🎨 Trabalho visual: **desenhos realistas, personagens 3D** e composições digitais (meu lado artístico sempre aparece).
+- ✨ Gosto de unir **design + tecnologia** pra criar coisas bonitas e funcionais.
+- 🧠 Tenho interesse crescente em design digital e como as pessoas interagem com o visual.
+- 🧪 Curto testar ideias, ajustar detalhes e deixar cada parte do projeto mais fluida.
+- 🚀 Quero me aprofundar mais em **design, estética digital** e criação de experiências visuais.
 
 <br/>
 
 ## <samp>💬 Sobre Mim</samp>
 
-- 🎓 Estudante de **Desenvolvimento de Sistemas**
-- 🎮 Apaixonada por games, tech e estética digital
-- 🎨 Amo montar layouts, compor elementos visuais e deixar tudo harmonioso
-- 🧠 Foco em UI/UX, usabilidade e padrões de design
-- 💬 Gosto de trocar ideias, aprender com outras pessoas e colaborar em projetos
-
+- 🎓 Técnica em **Desenvolvimento de Sistemas**
+- 🎮 Amo tecnologia, jogos e tudo que envolve criatividade
+- 🎨 Vivo montando layouts e deixando tudo com a minha estética
+- 🧠 Curiosidade gigante por design, psicologia visual e composição
+- 💬 Sempre aberta pra conversar, colaborar e aprender mais
 <br/>
 
 ## <samp>🌹 My Skill Set</samp>
