@@ -13,28 +13,35 @@
   <img align="left" alt="Gmail" width="22px" src="https://github.com/user-attachments/assets/a58220cc-ed55-4593-8f3c-64ca8152f87d"/>
 </a>
 
-<br/><br/><br/><br/>
+<br/><br/>
 
 Sou uma desenvolvedora front-end em formação, apaixonada por estética digital, interfaces limpas e experiências visuais criativas.  
 Atualmente estudo **Desenvolvimento de Sistemas (3º ano)** e venho desenvolvendo projetos com foco em **UI/UX**, responsive design e boas práticas de front-end.
 
 <img align="right" alt="gif" width="230px" src="https://github.com/user-attachments/assets/d71b15af-e57b-4134-81ea-8caefee98437"/>
 
-- 💻 Experiência com **HTML, CSS e JavaScript**  
-- 🎨 Criação visual: **desenhos realistas e personagens 3D**  
-- ✨ Gosto de misturar tecnologia + criatividade  
-- 🚀 Busco oportunidades em projetos de design, front-end e experiência do usuário  
-<br/><br/><br/><br/><br/>
+<br/>
+
+- 💻 Experiência prática com **HTML, CSS e JavaScript**, criando interfaces modernas, responsivas e focadas no usuário.
+- 🎨 Produção visual: **desenhos realistas, personagens 3D**, composições digitais e estudos de estética.
+- ✨ Paixão por unir **design + tecnologia**, explorando cores, tipografias e microinterações.
+- 🧠 Interesse forte em psicologia aplicada ao design — como pessoas percebem, navegam e interagem com interfaces.
+- 🧪 Curto testar layouts, ajustar detalhes e otimizar a experiência em diferentes dispositivos.
+- 🚀 Busco aprender sobre **design digital** e projetos criativos.
+
+<br/>
 
 ## <samp>💬 Sobre Mim</samp>
 
 - 🎓 Formação técnica em **Desenvolvimento de Sistemas**  
-- 🌱 Aprimorando práticas de **JavaScript** e organização de código  
+- 🎮 Jogos, tecnologia e estética = meu lar
+- 🎨 Me divirto montando layouts e deixando tudo bonitinho  
 - 🧠 Interesse forte em UI/UX, usabilidade e composição visual  
-- 💬 Sempre aberta para conversar, trocar ideias e colaborar  
+- 💬 Sempre aberta para conversar, trocar ideias e colaborar
 
+  <br/>
 
-## My Skill Set  
+## <samp>🌹 My Skill Set  </samp>
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  
@@ -54,4 +61,3 @@ Atualmente estudo **Desenvolvimento de Sistemas (3º ano)** e venho desenvolvend
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 </div>
 
----
