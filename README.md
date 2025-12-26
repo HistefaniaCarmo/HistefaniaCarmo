@@ -25,7 +25,7 @@ Sou formada em Técnico em Desenvolvimento de Sistemas e desenvolvo projetos com
 - 💻 Experiência prática com HTML, CSS e JavaScript, criando interfaces modernas e responsivas.
 - 🎨 Atuação com desenhos realistas e composições digitais, trazendo um olhar artístico aos projetos.
 - ✨ Interesse em integrar design e tecnologia para desenvolver soluções visuais funcionais e bem estruturadas.
-- 🧠 Curiosidade constante sobre design digital e experiência do usuário, entendendo como pessoas interagem com interfaces.
+- 🧠 Atenção especial à coerência visual e à clareza na apresentação de ideias.
 - 🧪 Perfil exploratório, com gosto por testar ideias, refinar detalhes e melhorar a fluidez dos projetos.
 - 🚀 Motivada a evoluir continuamente, aprendendo novas ferramentas e aprimorando habilidades em front-end e design.
 
