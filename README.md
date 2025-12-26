@@ -15,29 +15,30 @@
 
 <br/><br/>
 
-Sou uma desenvolvedora front-end, com uma quedinha enorme por estética digital, interfaces limpas e visuais criativos.  
-Atualmente sou formada em ** Técnico em Desenvolvimento de Sistemas ** e venho construindo projetos focados em layout, responsividade e boas práticas de front-end.
+Sou desenvolvedora front-end, com forte interesse em estética digital, interfaces limpas e design funcional.
+Sou formada em Técnico em Desenvolvimento de Sistemas e desenvolvo projetos com foco em layout, responsividade e boas práticas de front-end, buscando unir visual atrativo e experiência do usuário.
 
 <img align="right" alt="gif" width="230px" src="https://github.com/user-attachments/assets/d71b15af-e57b-4134-81ea-8caefee98437"/>
 
 <br/>
 
-- 💻 Experiência prática com **HTML, CSS e JavaScript** — criando interfaces modernas e responsivas.
-- 🎨 Trabalho visual: **desenhos realistass* e composições digitais (meu lado artístico sempre aparece).
-- ✨ Gosto de unir **design + tecnologia** pra criar coisas bonitas e funcionais.
-- 🧠 Tenho interesse crescente em design digital e como as pessoas interagem com o visual.
-- 🧪 Curto testar ideias, ajustar detalhes e deixar cada parte do projeto mais fluida.
-- 🚀 Quero me aprofundar mais em **design, estética digital** e criação de experiências visuais.
+- 💻 Experiência prática com HTML, CSS e JavaScript, criando interfaces modernas e responsivas.
+- 🎨 Atuação com desenhos realistas e composições digitais, trazendo um olhar artístico aos projetos.
+- ✨ Interesse em integrar design e tecnologia para desenvolver soluções visuais funcionais e bem estruturadas.
+- 🧠 Curiosidade constante sobre design digital e experiência do usuário, entendendo como pessoas interagem com interfaces.
+- 🧪 Perfil exploratório, com gosto por testar ideias, refinar detalhes e melhorar a fluidez dos projetos.
+- 🚀 Motivada a evoluir continuamente, aprendendo novas ferramentas e aprimorando habilidades em front-end e design.
 
 <br/>
 
 ## <samp>💬 Sobre Mim</samp>
 
-- 🎓 Técnica em **Desenvolvimento de Sistemas**
-- 🎮 Amo tecnologia, jogos e tudo que envolve criatividade
-- 🎨 Vivo montando layouts e deixando tudo com a minha estética
-- 🧠 Curiosidade gigante por design, psicologia visual e composição
-- 💬 Sempre aberta pra conversar, colaborar e aprender mais
+- 🎨 Olhar atento para estética, composição e identidade visual
+- 🧠 Interesse em psicologia visual e em como o design influencia decisões
+- 🧪 Gosto de experimentar, ajustar detalhes e evoluir ideias aos poucos
+- 🎮 Criatividade muito influenciada por jogos e cultura digital
+- 💬 Perfil aberto à colaboração, feedbacks e troca de conhecimento
+  
 <br/>
 
 ## <samp>🔥 Minhas Habilidades</samp>
